@@ -206,6 +206,3 @@ Through this project, the following concepts are demonstrated:
 - User Input Handling
 - Mini Application Development
 
-```
-© 2026 Train Enquiry System Project
-```
